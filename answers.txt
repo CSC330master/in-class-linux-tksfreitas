@@ -1,0 +1,18 @@
+LINUX COMMANDS USED:
+
+1. pwd - Print working directory (shows current directory path)
+2. mkdir - Make directory (creates a new directory)
+3. cd - Change directory (navigates to a different directory)
+4. ls -ltr - List files with options: -l (long format), -t (sort by time), -r (reverse order)
+5. cat - Concatenate and display file contents to screen
+6. pico -l - Text editor with -l option to show line numbers
+7. sudo unminimize - Run command as superuser to install default Ubuntu packages
+
+GIT COMMANDS USED:
+
+1. git config --global - Set global configuration for git (user email and name)
+2. git clone - Clone/download a repository from GitHub to local machine
+3. git status - Check the status of files in the repository (modified, staged, etc.)
+4. git add - Stage files for commit (prepare files to be committed)
+5. git commit -m - Commit staged changes with a message describing the changes
+6. git push - Push committed changes from local repository to GitHub remote repository
